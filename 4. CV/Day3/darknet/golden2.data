@@ -1,0 +1,6 @@
+classes= 2
+train  = golden_data/golden_train.txt
+valid  = golden_data/golden_valid.txt
+names = golden2.names
+backup = backup/
+
